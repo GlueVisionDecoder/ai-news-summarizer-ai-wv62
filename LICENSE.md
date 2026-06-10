@@ -1,4 +1,4 @@
-# 
+# Open Source AI News Summarizer tools. Featuring reinforcement-learning and AI-ethics — optimized for maximum performance.
 
 
 
